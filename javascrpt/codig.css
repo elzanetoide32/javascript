@@ -1,0 +1,72 @@
+body{
+	color: black;
+	font-family: sans-serif;
+}
+
+.grande{
+	font-size: 50px
+}
+
+
+.cuadrado {
+	padding: 100px;
+	background: #ccc;
+}
+
+.circulo{
+    border-radius: 40%;
+    padding:10%;
+    background: #f00;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+.caja{
+	height: 300px;
+	width: 300px;
+	display: flex;
+	background: #48e;
+	margin: 20px auto;
+	color: #fff;
+	font-size: 26px;
+	border: 4px dashed #248
+}
+.caja span{
+	margin: auto;
+}
+
+.caja:nth-child(2) {
+	background: #e48;
+	border: 4px dashed #824;
+}
+
+.caja:nth-child(3){
+	background: #4e8;
+	border: 4px dashed #284;
+}
+.caja:nth-child(4){
+	background: #777;
+	border: 4px dashed #444;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
